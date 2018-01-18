@@ -1,0 +1,15 @@
+#xs configuration file
+#Tue Dec 12 01:38:10 UTC 2017
+space=SAP
+hashAlgorithm=SHA-256
+accessControlEnabled=true
+orgGuid=2dd73d94-3067-4f92-aa67-17f0272c3ad2
+sslSkipValidation=false
+caCertPath=/hana/shared/HXE/xs/controller_data/controller/ssl-pub/router/default.root.crt.pem
+api=https\://api.hxexsah.lcfx.net\:39033
+controllerSupportsCompression=true
+apiVersion=1
+controllerVersion=8
+allowCompression=false
+spaceGuid=ae0b497b-89b1-49dd-bb59-fded4db6b1d1
+org=LCFX
